@@ -1,0 +1,8 @@
+{
+  "name": "Search In Google Mail",
+  "description": "Search In Google Mail",
+  "version": "0.6",
+  "permissions": ["contextMenus"],
+  "background_page": "background.html",
+  "content_security_policy": "default-src 'self'"
+}
