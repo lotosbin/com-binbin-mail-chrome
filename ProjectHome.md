@@ -1,0 +1,1 @@
+com-binbin-mail-chrome
